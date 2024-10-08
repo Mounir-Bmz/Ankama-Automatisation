@@ -21,6 +21,13 @@ Ce projet présente ce que j'ai réalisé au sein de l'équipe pour améliorer e
 
 ## Quelques Visuels 📸
 
-![Animatic Importer](003.png)
-![Scène non automatisée dans Toon Boom Harmony](001.png)
-![Scène automatisée dans Toon Boom Harmony](002.png)
+<div align="center">
+  <h3>Animatic Importer</h3>
+  <img src="images/003.png" alt="Animatic Importer" width="70%">
+  
+  <h3>Scène non automatisée dans Toon Boom Harmony</h3>
+  <img src="images/001.png" alt="Scène non automatisée dans Toon Boom Harmony" width="70%">
+  
+  <h3>Scène automatisée dans Toon Boom Harmony</h3>
+  <img src="images/002.png" alt="Scène automatisée dans Toon Boom Harmony" width="70%">
+</div>
